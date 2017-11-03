@@ -1,0 +1,21 @@
+Roles
+Cliente (Habitante)
+
+
+conocer dispositivos faltan conectar---------------
+conectarse a la red del dispositivo----------------
+configurar la red de conexion ---------------------
+crear usuario nuevo--------------------------------
+iniciar sesion
+%conocer cuales dispositivos estan conectados 
+asignar los dispositivos a habitacion (bien, dueño de habitacion)
+quitar dispositivos de habitacion 
+conocer el estado de conexion de los dispositivos (Forma parte de controlar dispositivo)
+controlar dispositivo (bien, -debe esar asignado a una habitacion- miembro)
+agregar nuevos participantes a la red (invitar)
+designar dueño de habitacion (debe ser invitado)
+quitar dueño de habitacion
+aceptar invitacion
+agregar habitacion
+editar habitacion
+borrar habitacion
